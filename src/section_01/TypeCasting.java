@@ -13,7 +13,7 @@ public class TypeCasting {
 
         System.out.println(intValue);
         System.out.println(doubleValue);
-        System.out.println(intValue);
+        System.out.println(intValue1);
         System.out.println(intValue);
     }
 }

@@ -7,6 +7,8 @@ public class Season {
         Scanner sc = new Scanner(System.in);
         String season = sc.nextLine();
         
+        sc.close();
+        
         switch (season){
         case "spring":
             System.out.println("Go for a walk");
